@@ -41,11 +41,11 @@ section 2
 sub section 1
 +++++++++++++
 normal text
-This is a external link to rst-quickref_.
+This is a external link to `rst quickref`_.
 This is an implicit reference to `MAIN TITLE`_
 
 sub sub section  1
 ******************
 normal text
 
-.. _rst-quickref: http://docutils.sourceforge.net/docs/user/rst/quickref.html
+.. _`rst quickref`: http://docutils.sourceforge.net/docs/user/rst/quickref.html
